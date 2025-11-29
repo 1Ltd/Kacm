@@ -5,14 +5,14 @@
 :root {
   --background: #f0f0f0;
   --foreground: #000000;
-  --accent: #ff6b6b;
+  --accent: #1fc43b;
   --secondary: #4ecdc4;
 }
 
 .dark {
   --background: #1a1a1a;
   --foreground: #ffffff;
-  --accent: #ff6b6b;
+  --accent: #1fc43b;
   --secondary: #4ecdc4;
 }
 
