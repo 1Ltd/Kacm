@@ -15,7 +15,7 @@ const InteractiveTitle = () => {
         transform: isHovered ? "translateY(-4px)" : "none",
       }}
     >
-      FLUX MAIL
+      KAC MAIL
     </h1>
   );
 };
