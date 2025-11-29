@@ -1,10 +1,10 @@
 [package]
-name = "flux-mail"
+name = "kactus"
 description = "A simple implementation of SMTP Protocol as a temporary mail service in Rust"
 version = "0.2.1"
-edition = "2021"
-authors = ["Shubham singh	<github: github.com/shubhexists>"]
-repository = "https://github.com/shubhexists/flux-mail"
+edition = "2025"
+authors = ["1neNetworks"]
+repository = "https://github.com/1Ltd/kacm"
 license-file = "LICENSE"
 categories = ["email"]
 keywords = ["smtp", "email", "mail"]
