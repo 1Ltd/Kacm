@@ -49,7 +49,7 @@ const AnimatedBackground = () => {
       draw() {
         if (!ctx) return;
         ctx.fillStyle =
-          theme === "light" ? "rgba(0, 0, 0, 0.1)" : "rgba(255, 255, 255, 0.1)";
+          theme === "light" ? "rgba(0, 0, 0, 0.1)" : "rgba(31, 196, 59, 0.1)";
         ctx.beginPath();
         ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
         ctx.closePath();
